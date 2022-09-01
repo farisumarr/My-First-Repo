@@ -1,5 +1,7 @@
-NAMA : Muhammad Faris Umar Rahman
+Nama : Muhammad Faris Umar Rahman
 
 NPM : 2106702402
 
-KELAS : F
+Kelas : F
+
+Hobi : Valo
